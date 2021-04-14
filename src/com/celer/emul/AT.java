@@ -1,4 +1,4 @@
-/* Copyright CelerSMS, 2020-2021
+/* Copyright CelerSMS, 2018-2021
  * https://www.celersms.com
  *
  * Permission is hereby granted, free of charge, to any person obtaining
