@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14497827.svg)](https://doi.org/10.5281/zenodo.14497827)
+
 # AT-Emulator
 
 The AT Emulator can emulate a communication device, like a modem. The AT interface can be accessed through the console, a TCP or telnet connection or a virtual COM port.
