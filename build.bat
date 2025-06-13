@@ -22,7 +22,7 @@ IF NOT EXIST "%JDK%\bin\javac.exe" GOTO JDKNOTFOUND
 :JDKFOUND
 IF NOT EXIST "%JDK%\jre\lib\rt.jar" GOTO RTNOTFOUND
 
-REM Get the AT Emuator version
+REM Get the AT Emulator version
 SET VER=0.0.0
 FOR /F "tokens=*" %%i IN (src\VERSION.txt) DO SET VER=%%i
 
