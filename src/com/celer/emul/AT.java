@@ -1,4 +1,4 @@
-/* Copyright CelerSMS, 2018-2021
+/* Copyright CelerSMS, 2018-2025
  * https://www.celersms.com
  *
  * Permission is hereby granted, free of charge, to any person obtaining
@@ -20,7 +20,7 @@
  * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  *
- * Author: Victor Celer <admin@celersms.com>
+ * Author: Victor Celer
  */
 package com.celer.emul;
 
